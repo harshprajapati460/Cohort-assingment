@@ -1,0 +1,3 @@
+Create a todo req res model where user can add , update and delete the todo 
+Store it in the json file if server crashes data don't loose
+
